@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "medley:cedar_log"
+    }
+  ],
+  "result":
+  {
+    "item": "medley:cedar_planks",
+    "count": 4
+  }
+}

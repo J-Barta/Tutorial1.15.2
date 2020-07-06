@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "medley:block/cedar_pressure_plate1" },
+        "powered=true": { "model": "medley:block/cedar_pressure_plate_down" }
+    }
+}

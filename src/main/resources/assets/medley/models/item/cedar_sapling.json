@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "texturs": {
+    "layer0": "medley:blocks/cedar_sapling"
+  }
+}

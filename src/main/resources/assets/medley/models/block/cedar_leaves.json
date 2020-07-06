@@ -1,0 +1,5 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "medley:blocks/cedar_leaves"  }
+}

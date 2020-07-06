@@ -1,0 +1,58 @@
+{
+  "item.medley.ruby1": "Ruby",
+
+  "block.medley.ruby_block": "Ruby Block",
+  "block.medley.ruby_ore": "Ruby Ore",
+
+  "block.medley.cedar_log": "Cedar Log",
+  "block.medley.cedar_planks": "Cedar Planks",
+  "block.medley.cedar_leaves": "Cedar Leaves",
+  "block.medley.cedar_sapling": "Cedar Sapling",
+  "block.medley.cedar_stairs": "Cedar Stairs",
+  "block.medley.cedar_fence": "Cedar Fence",
+  "block.medley.cedar_button": "Cedar Button",
+  "block.medley.cedar_pressure_plate1": "Cedar Pressure Plate",
+  "block.medley.cedar_slab": "Cedar Slab",
+
+  "block.medley.white_concrete_slab": "White Concrete Slab",
+  "block.medley.white_concrete_stairs": "White Concrete Stairs",
+  "block.medley.orange_concrete_slab": "Orange Concrete Slab",
+  "block.medley.orange_concrete_stairs": "Orange Concrete Stairs",
+  "block.medley.magenta_concrete_slab": "Magenta Concrete Slab",
+  "block.medley.magenta_concrete_stairs": "Magenta Concrete Stairs",
+  "block.medley.light_blue_concrete_slab": "Light Blue Concrete Slab",
+  "block.medley.light_blue_concrete_stairs": "Light Blue Concrete Stairs",
+  "block.medley.yellow_concrete_slab": "Yellow Concrete Slab",
+  "block.medley.yellow_concrete_stairs": "Yellow Concrete Stairs",
+  "block.medley.lime_concrete_slab": "Lime Concrete Slab",
+  "block.medley.lime_concrete_stairs": "Lime Concrete Stairs",
+  "block.medley.pink_concrete_slab": "Pink Concrete Slab",
+  "block.medley.pink_concrete_stairs": "Pink Concrete Stairs",
+  "block.medley.gray_concrete_slab": "Gray Concrete Slab",
+  "block.medley.gray_concrete_stairs": "Gray Concrete Stairs",
+  "block.medley.light_gray_concrete_slab": "Light Gray Concrete Slab",
+  "block.medley.light_gray_concrete_stairs": "Light Gray Concrete Stairs",
+  "block.medley.cyan_concrete_slab": "Cyan Concrete Slab",
+  "block.medley.cyan_concrete_stairs": "Cyan Concrete Stairs",
+  "block.medley.purple_concrete_slab": "Purple Concrete Slab",
+  "block.medley.purple_concrete_stairs": "Purple Concrete Stairs",
+  "block.medley.blue_concrete_slab": "Blue Concrete Slab",
+  "block.medley.blue_concrete_stairs": "Blue Concrete Stairs",
+  "block.medley.brown_concrete_slab": "Brown Concrete Slab",
+  "block.medley.brown_concrete_stairs": "Brown Concrete Stairs",
+  "block.medley.green_concrete_slab": "Green Concrete Slab",
+  "block.medley.green_concrete_stairs": "Green Concrete Stairs",
+  "block.medley.red_concrete_slab": "Red Concrete Slab",
+  "block.medley.red_concrete_stairs": "Red Concrete Stairs",
+  "block.medley.black_concrete_slab": "Black Concrete Slab",
+  "block.medley.black_concrete_stairs": "Black Concrete Stairs",
+
+
+
+
+
+
+  "biome.medley.deposit_biome": "Deposit",
+
+  "itemGroup.medleyTab": "Medley Tab"
+}

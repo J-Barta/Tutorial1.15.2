@@ -1,0 +1,40 @@
+modLoader="javafml"
+
+loaderVersion="[31,)"
+
+issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]]
+
+modId="medley"
+
+version="1.15.2-1.0.0"
+
+displayName="Medley Mod"
+
+updateJSONURL="http://myurl.me/"
+
+displayURL="http://example.com/"
+
+logoFile="examplemod.png"
+
+credits="Thanks for this medley mod goes to TechnoVision for his great tutorials. Some textures brought from NTPinheiro's Resource Pack."
+
+authors="Jedi_4"
+
+description='''
+This is a mod with a lot of random things that are cool addons to the game
+'''
+[[dependencies.examplemod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[31,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
