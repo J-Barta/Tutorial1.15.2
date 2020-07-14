@@ -10,7 +10,6 @@ public class RubyOre extends Block {
         super(Block.Properties.create(Material.ROCK)
                 .hardnessAndResistance(5.0F, 6.0F)
                 .harvestTool(ToolType.PICKAXE).sound(SoundType.STONE)
-                .setRequiresTool()
                 .harvestLevel(3));
     }
 }

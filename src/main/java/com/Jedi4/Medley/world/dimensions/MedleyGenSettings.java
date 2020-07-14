@@ -1,7 +1,6 @@
 package com.Jedi4.Medley.world.dimensions;
 
-
-import com.Jedi4.Medley.Dimension.GenerationSettings;
+import net.minecraft.world.gen.GenerationSettings;
 
 public class MedleyGenSettings extends GenerationSettings {
     public int getBiomeSize() {

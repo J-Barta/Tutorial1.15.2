@@ -11,7 +11,6 @@ public class RubyBlock extends Block {
         super(Block.Properties.create(Material.IRON)
                 .hardnessAndResistance(5.0F, 6.0F)
                 .harvestTool(ToolType.PICKAXE).sound(SoundType.METAL)
-                .setRequiresTool()
                 .harvestLevel(3));
 
     }

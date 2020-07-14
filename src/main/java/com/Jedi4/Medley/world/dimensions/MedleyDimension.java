@@ -1,9 +1,9 @@
 package com.Jedi4.Medley.world.dimensions;
 
-import com.Jedi4.Medley.Dimension.Dimension;
-import com.Jedi4.Medley.Dimension.ModDimension;
-import net.minecraft.world.DimensionType;
 import net.minecraft.world.World;
+import net.minecraft.world.dimension.Dimension;
+import net.minecraft.world.dimension.DimensionType;
+import net.minecraftforge.common.ModDimension;
 
 import java.util.function.BiFunction;
 
